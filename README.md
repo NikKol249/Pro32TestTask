@@ -6,10 +6,15 @@
 python -m venv venv
 ```
 
+Запустить окружение
+```bash
+venv\Scripts\avtivate
+```
+
 Установить requirements.txt
 
 ```bash
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 ```
 
 Заполнить файл config.cfg
