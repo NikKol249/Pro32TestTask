@@ -2,20 +2,20 @@
 
 Перед использованием создать виртуальное окружение
 
-'''bash
+```bash
 python -m venv venv
-'''
+```
 
 Установить requirements.txt
 
-'''bash
+```bash
 pip install -r /path/to/requirements.txt
-'''
+```
 
 Заполнить файл config.cfg
 
 Запустить тест
 
-'''bash
+```bash
 pytest -s -v
-'''
+```
